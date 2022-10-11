@@ -34,4 +34,12 @@ public class Livro extends Produto {
 		this.editora = editora;
 	}
 
+	@Override
+	public String toString() {
+		return "Livro [isbn=" + isbn + ", editora=" + editora + ", codigo=" + codigo + ", preco=" + preco
+				+ ", descricao=" + descricao + "]";
+	}
+	
+	
+
 }
