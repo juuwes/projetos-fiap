@@ -16,7 +16,7 @@ Neste repositório estão os projetos realizados até o momento no curso - [Imer
 ✓ Polimorfismo e <b><i>enums</i></b>. </br>
 ✓ <b><i>ArrayList</i></b>. </br>
 
-## 🚩 Desafios
+## 🚩 Projetos
 - <b>Projeto IMC - </b> Utilizando <b><i>vetores</i></b>: Programa irá calcular o IMC de determinado número de pessoas, através do seu peso e altura, armazenando em um vetor.
 
 - <b>Projeto Interface - </b> Utilizando <b><i>interface</i></b> | <i><b>herança</i></b>: Programa que exibe dados sobre produtos de uma livraria.
